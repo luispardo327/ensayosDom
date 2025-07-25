@@ -1,6 +1,6 @@
    // cambiar el titulo
     let titulo = document.getElementById('miTitulo');
-    titulo.innerText = "hola estoy editando el contenido de h1 desde javascript";
+    titulo.innerText = "Bienvenido a la manipulación del DOM";
 
     //cambiar el texto 
     let cambiarParrafo = document.getElementById('parrafo')
